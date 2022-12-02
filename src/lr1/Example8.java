@@ -13,7 +13,5 @@ public class Example8 {
         int date = in.nextInt();
 
         System.out.println(day_name+' '+date+' '+month);
-
-
     }
 }
