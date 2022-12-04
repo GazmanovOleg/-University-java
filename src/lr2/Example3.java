@@ -7,6 +7,6 @@ public class Example3 {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите число:");
         int n = in.nextInt();
-        System.out.println(n%4==0 & n<10? "Крутое число": "Так себе число");
+        System.out.println(n%4==0 & n>10? "Крутое число": "Так себе число");
     }
 }
