@@ -22,7 +22,5 @@ public class Example6 {
     public void getMinMax(){
         System.out.println("Min = "+Min+", Max = "+Max);
     }
-    /*
-Предусмотрите конструктор, который работает по тому же принципу, что и
-метод для присваивания значений полям. .*/
+  
 }
