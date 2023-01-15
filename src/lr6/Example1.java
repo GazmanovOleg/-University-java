@@ -18,7 +18,6 @@ class Example1_1{
             }
         }
     }
-
 }
 public class Example1 {
     public static void main(String[] args) {
@@ -33,11 +32,8 @@ public class Example1 {
         ex.setVal(mas);
         System.out.println(ex.symbol);
         System.out.println(ex.txt);
-
         char [] mas1 ={'d'};
         ex.setVal(mas1);
         System.out.println(ex.symbol);
-
     }
-
 }

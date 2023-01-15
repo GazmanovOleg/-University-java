@@ -9,7 +9,6 @@ public class Example9 {
         }
         return mas;
     }
-
     public static void main(String[] args) {
         char [] ded = {'q','a','s','e','v'};
 

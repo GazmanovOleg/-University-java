@@ -17,7 +17,6 @@ public class Example4 {
             return num*factorialRec(num-2);
         }
     }
-
     public static void main(String[] args) {
         System.out.println(factorial(6));
         System.out.println(factorialRec(6));

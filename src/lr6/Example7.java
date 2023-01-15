@@ -3,7 +3,6 @@ package lr6;
 import java.util.Arrays;
 
 public class Example7 {
-
     static int [] func(char [] mas){
         int [] newMas = new int[mas.length];
         for(int i=0; i<mas.length; i++){
