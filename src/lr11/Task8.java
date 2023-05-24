@@ -76,15 +76,6 @@ class Node1 {
         System.out.println("Формирование односвязного списка от хвоста:");
     }
 
-    /*protected void printNodeLinkedList(Node head) {
-        Node ref = head;
-        while (ref != null) {
-            System.out.print(" " + ref.value);
-            ref = ref.next;
-        }
-        System.out.println("\n");
-    }*/
-
     public String toString() {// вывод (возвращается строка, сформированная из элементов списка) toString();
         Node1 ref = head;
         System.out.println("Печать односвязного списка:");
